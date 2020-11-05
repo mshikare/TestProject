@@ -87,5 +87,6 @@ public class WindowsService {
 	        	  (double)memoryMXBean.getHeapMemoryUsage().getCommitted() /1073741824));
 	            
 		}
+		System.out.println("This is to test Git");
 	}
 	}
